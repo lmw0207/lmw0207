@@ -14,7 +14,7 @@
 
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&text=bye👋%20bye👋&fontColor=palegoldenrod&fontSize=50&color=auto&height=118&section=footer&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&text=bye👋%20bye👋&fontColor=palegoldenrod&fontSize=50&color=auto&height=170&section=footer&animation=fadeIn)
 
 
 <!--
