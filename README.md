@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi%20there🤗%20I'm%20lmw0207%20👍&fontColor=palegoldenrod&fontSize=50&&fontAlignY=38&animation=fadeIn)
 
-## Hi there 👋👋👋
+## Hi there 👋👋 😂😂😂
 
 [GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lmw0207&theme=default)
 
