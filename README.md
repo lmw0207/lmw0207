@@ -36,4 +36,7 @@
 이 부분은 미래의 나에게 맡길게 👍
 
 ---
+## 🤙 Contact
+- GitHub: https://github.com/lmw0207
+- E-mail: lmw0207@naver.com / a01094505265@gmail.com
 
