@@ -1,31 +1,39 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi%20there🤗%20I'm%20lmw0207%20👍&fontColor=palegoldenrod&fontSize=50&&fontAlignY=38&animation=fadeIn)
+<h1 align="center">MINWOO 👋👋</h1>
 
-## Hi there 👋👋 😂😂😂
+---
+2025.11.18 ~ 2026.04.07 
+: [이스트캠프] 오르미 프론트엔드 11기 참여중
 
-[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lmw0207&theme=default)
+---
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+## 👋 About Me
+- 😂 부족하지만 프론트엔드 개발 공부중
+- 😶‍🌫️ HTML 마크업은 어느정도 시간이 걸리긴해도 많이 괜찮아진 거 같은 느낌
+- 😶 CSS는 너무나도 어려워 아직도 많이 헤매는 중    
+- 🤨 조금은 더디더라도 성장하고 있겠지.. 라는 마음으로 하는중
+- 🫥 화이팅 ❗
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+---
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+## ⚡ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F😎)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&text=bye👋%20bye👋&fontColor=palegoldenrod&fontSize=50&color=auto&height=170&section=footer&animation=fadeIn)
+  </p>
+<hr>
+  <p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white"/>
+</p>
 
-<!--
-**lmw0207/lmw0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## 💡 Skills
 
-Here are some ideas to get you started:
+이 부분은 미래의 나에게 맡길게 👍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-ㅎㅇㅎㅇ 안녕
--->
+---
+
