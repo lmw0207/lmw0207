@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi%20there🤗%20I'm%20lmw0207%20👍&fontColor=palegoldenrod&fontSize=50&&fontAlignY=38&animation=fadeIn)
 
-## Hi there 👋
+## Hi there 👋👋
 
 [GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lmw0207&theme=default)
 
@@ -12,10 +12,7 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F😎)
 
-
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&text=bye👋%20bye👋&fontColor=palegoldenrod&fontSize=50&color=auto&height=170&section=footer&animation=fadeIn)
-
 
 <!--
 **lmw0207/lmw0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,4 +27,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ㅎㅇㅎㅇ 안녕
 -->
